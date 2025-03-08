@@ -1,7 +1,4 @@
 # Ollama Phi-4 API
-
-Dự án này cung cấp một API đơn giản để giao tiếp với mô hình **Phi-4** thông qua **Ollama** và **FastAPI**. API cho phép gửi yêu cầu hội thoại và nhận phản hồi từ mô hình Phi-4 một cách nhanh chóng.
-
 ## Chuẩn Bị
 
 ### 1. Tải Model Phi-4
