@@ -27,7 +27,7 @@ Lệnh này sẽ chạy Ollama trên `http://localhost:11434`.
 
 ## Chạy API Server
 
-Cài đặt các thư viện cần thiết:
+Cài đặt các thư viện:
 
 ```sh
 pip install fastapi uvicorn requests
